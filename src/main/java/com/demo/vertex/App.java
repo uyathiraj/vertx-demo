@@ -6,8 +6,9 @@ import io.vertx.core.Vertx;
 
 /**
  * Hello world!
- *
+ *Run below class to deploy app
  */
+
 public class App {
 	public static void main(String[] args) {
 		Vertx vertx = Vertx.vertx();
